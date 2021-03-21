@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ps.otoo.top/"/>
-  <updated>2021-03-21T06:04:55.360Z</updated>
+  <updated>2021-03-21T07:58:49.735Z</updated>
   <id>https://ps.otoo.top/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>1-4 | 制作镜面着色效果</title>
+    <link href="https://ps.otoo.top/Blog/pscs3_2011_x1-4/"/>
+    <id>https://ps.otoo.top/Blog/pscs3_2011_x1-4/</id>
+    <published>2021-03-21T06:33:51.000Z</published>
+    <updated>2021-03-21T07:58:49.735Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote class="blockquote-center"><p>第一单元 选区编辑 课本第4页 </p></blockquote><a id="more"></a><div class="admonition warning"><p class="admonition-title">温馨提示</p><p>工具使用不要局限于此，有多种方法可以达成目的！博文内方法仅供参考，你可以使用对于你来说更为快速便捷的方法完成。</p></div><div class="admonition error"><p class="admonition-title">警告</p><p>全文覆盖GIF动图，如无图请刷新或等待加载推荐使用电脑浏览，</p></div><h1 id="素材下载"><a href="#素材下载" class="headerlink" title="素材下载"></a>素材下载</h1><div class="admonition note"><p class="admonition-title">x1-4 | 26.8KB</p><p><a href="/Download/x1-4.zip">PS.otoo.top</a></p></div><h1 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h1><p><img src="https://z3.ax1x.com/2021/03/21/65kqxS.jpg" alt="制作镜面着色效果图"></p><h1 id="建立选区"><a href="#建立选区" class="headerlink" title="建立选区"></a>建立选区</h1><p>使用 <strong>磁吸套索工具</strong> 将窗口扣下，扣完一个窗户后按住 <code>Shift</code> 添加新锚点接着扣下一个 <em>创建好新锚点之后就不用一直按着Shift了</em></p><div class="admonition warning"><p>按住 <code>Alt</code> 使用 <code>鼠标滚轮</code> 可以缩放画布，按住 <code>Spacebar</code><em>空格</em> 使用 <code>鼠标左键</code> 拖拽画布移动视角</p></div><div><div class="fold_hider"><div class="close hider_title">点我查看所有窗户抠图过程</div></div><div class="fold"><p><img src="https://z3.ax1x.com/2021/03/21/64zwxs.gif" alt="车窗1"><br><img src="https://z3.ax1x.com/2021/03/21/64zTZ6.gif" alt="车窗2"><br><img src="https://z3.ax1x.com/2021/03/21/64zORH.gif" alt="车窗3"><br><img src="https://z3.ax1x.com/2021/03/21/65SFJg.gif" alt="车窗4"></p></div></div><p><img src="https://z3.ax1x.com/2021/03/21/65SVQs.png" alt="所有车窗"></p><p>将画布窗口像拖动浏览器标签一样 <strong>拖动出来</strong> ，并按住 <code>Ctrl</code> 使用 <code>鼠标左键</code> 将内容拖至另一画布</p><div class="admonition warning"><p>注意：必须一次覆盖所有选区，如果没有覆盖完全请按 <code>Ctrl</code> <code>Z</code> 撤销重来</p></div><p><img src="https://z3.ax1x.com/2021/03/21/65CJyj.gif" alt="内容拖动至另一画布"><br>使用 <code>Shift</code> <code>Ctrl</code> <code>I</code> 使选区 <strong>选择反向</strong><br>然后使用 <code>Delete</code> <strong>删除选区</strong> 只留下窗户<br><img src="https://z3.ax1x.com/2021/03/21/65P2vQ.png" alt="选择反向删除选区"></p><h1 id="蒙版修改"><a href="#蒙版修改" class="headerlink" title="蒙版修改"></a>蒙版修改</h1><p>在右下角 <strong>图层面板</strong> 创建一个 <strong>蒙版</strong><br><img src="https://z3.ax1x.com/2021/03/21/65Cz9S.png" alt="创建蒙版"><br>使用 <code>Alt</code> <code>Delete</code> 填充 <strong>前景色</strong> 使车窗重现<br>顶部菜单栏选择 <strong>编辑 - 渐隐填充</strong> 不透明度改成 <strong>70%</strong><br><em>不透明度选项与动图演示有出入，自行斟酌</em><br><a href="https://z3.ax1x.com/2021/03/21/65i7dI.gif" target="_blank" rel="noopener"><img src="https://z3.ax1x.com/2021/03/21/65iMRS.gif" alt="蒙版填充渐隐"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;第一单元 选区编辑 课本第4页 &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Photoshop CS3 试题汇编" scheme="https://ps.otoo.top/categories/Photoshop-CS3-test-compilation/"/>
+    
+      <category term="第一单元 选区编辑" scheme="https://ps.otoo.top/categories/Photoshop-CS3-test-compilation/Unit-1/"/>
+    
+    
+      <category term="初来乍到" scheme="https://ps.otoo.top/tags/First-time-visitor/"/>
+    
+      <category term="平面设计" scheme="https://ps.otoo.top/tags/Graphic-Design/"/>
+    
+  </entry>
+  
+  <entry>
     <title>1-3 | 制作连体效果</title>
     <link href="https://ps.otoo.top/Blog/pscs3_2011_x1-3/"/>
     <id>https://ps.otoo.top/Blog/pscs3_2011_x1-3/</id>
     <published>2021-03-21T04:01:11.000Z</published>
-    <updated>2021-03-21T06:04:55.360Z</updated>
+    <updated>2021-03-21T06:07:58.108Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote class="blockquote-center"><p>第一单元 选区编辑 课本第3页 </p></blockquote><a id="more"></a><div class="admonition warning"><p class="admonition-title">温馨提示</p><p>工具使用不要局限于此，有多种方法可以达成目的！博文内方法仅供参考，你可以使用对于你来说更为快速便捷的方法完成。</p></div><div class="admonition error"><p class="admonition-title">警告</p><p>全文覆盖GIF动图，如无图请刷新或等待加载推荐使用电脑浏览，</p></div><h1 id="素材下载"><a href="#素材下载" class="headerlink" title="素材下载"></a>素材下载</h1><div class="admonition note"><p class="admonition-title">x1-3 | 12.3KB</p><p><a href="/Download/x1-3.zip">PS.otoo.top</a></p></div><h1 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h1><p><img src="https://z3.ax1x.com/2021/03/21/64X3Ae.jpg" alt="[效果]制作连体效果">    </p><h1 id="仿制图章"><a href="#仿制图章" class="headerlink" title="仿制图章"></a>仿制图章</h1><h2 id="①②"><a href="#①②" class="headerlink" title="①②"></a>①②</h2><p><img src="https://z3.ax1x.com/2021/03/21/647iwj.png" alt="仿制图章工具"><br>使用 <strong>仿制图章工具</strong> 在左上角修改画笔 <strong>大小</strong> 和 <strong>硬度</strong> ，分别是 <strong>16</strong> 和 <strong>50</strong><br><img src="https://z3.ax1x.com/2021/03/21/64HijO.png" alt="修改画笔大小16-50"><br>按住 <code>Alt</code> 使用 <code>鼠标左键</code> <strong>选择较为中间的位置</strong> 之后鼠标上移 <strong>对齐图形</strong> 再使用 <code>鼠标左键</code> 覆盖<br><img src="https://z3.ax1x.com/2021/03/21/64bKo9.gif" alt="alt选择覆盖"></p><div class="admonition warning"><p>在使用过程中会发现在覆盖时后面会跟着一个 <strong>十字光标</strong> ，这个光标代表你在用哪部分的图形覆盖，重置它位置的方法很简单，再次使用  <code>Alt</code> + <code>鼠标左键</code> 选择一个位置</p></div><p>这里推荐使用 <strong>单点</strong> 操作而不是 <strong>长按</strong> ，你可以动手试试以查看区别<br><img src="https://z3.ax1x.com/2021/03/21/64qWnO.gif" alt="alt选择覆盖2"></p><h2 id="③"><a href="#③" class="headerlink" title="③"></a>③</h2><p>按住 <code>Alt</code> 使用 <code>鼠标右键</code> 缩小画笔大小，然后先使用 <strong>左边</strong> 的部分覆盖 <strong>右边</strong> ，再使用已经 <strong>被覆盖</strong> 的 <strong>右边</strong> 修饰本身<br><em>见下图及操作演示</em><br><img src="https://z3.ax1x.com/2021/03/21/64Xp60.png" alt="alt选择覆盖3"></p><h3 id="操作演示"><a href="#操作演示" class="headerlink" title="操作演示"></a>操作演示</h3><p><img src="https://z3.ax1x.com/2021/03/21/64OJyV.gif" alt="细扣覆盖"></p>]]></content>
     
