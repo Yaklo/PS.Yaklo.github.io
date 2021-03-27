@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ps.otoo.top/"/>
-  <updated>2021-03-23T15:57:42.036Z</updated>
+  <updated>2021-03-27T09:46:59.435Z</updated>
   <id>https://ps.otoo.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1-6 |合成全景图像</title>
+    <link href="https://ps.otoo.top/Blog/pscs3_2011_x1-6/"/>
+    <id>https://ps.otoo.top/Blog/pscs3_2011_x1-6/</id>
+    <published>2021-03-21T10:30:11.000Z</published>
+    <updated>2021-03-27T09:46:59.435Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote class="blockquote-center"><p>文章介绍 </p></blockquote><a id="more"></a><div class="admonition info"><p class="admonition-title">小贴士</p><p>部分展示 <strong>完整</strong> Photoshop <strong>界面</strong> 的GIF动图可以 <strong>单击点开</strong> 查看 <strong>清晰大图</strong></p></div><div class="admonition warning"><p class="admonition-title">温馨提示</p><p>工具使用不要局限于此，有多种方法可以达成目的！博文内方法仅供参考，你可以使用对于你来说更为快速便捷的方法完成。</p></div><div class="admonition error"><p class="admonition-title">警告</p><p>全文覆盖GIF动图，如无图请刷新或等待加载推荐使用电脑浏览，</p></div><h1 id="素材下载"><a href="#素材下载" class="headerlink" title="素材下载"></a>素材下载</h1><div class="admonition note"><p class="admonition-title">x1-1 | 223KB</p><p><a href="/Download/x1-6.zip">PS.otoo.top</a></p></div><h1 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h1><p><img src="https://z3.ax1x.com/2021/03/27/6ztF1O.jpg" alt="[1-6]合成全景图像效果图"></p><h1 id="part3基本修改"><a href="#part3基本修改" class="headerlink" title="part3基本修改"></a>part3基本修改</h1><p><code>Ctrl</code> <code>Alt</code> <code>C</code> 修改画布大小<br>宽度 <strong>600像素</strong> 高度 <strong>350像素</strong> 定位 <strong>第一行第三列</strong><br><em>会提示：新画布大小小于当前画布大小；将进行一些裁剪。 直接选择继续就好了</em><br><img src="https://z3.ax1x.com/2021/03/27/6zYEoq.png" alt="[1-6]修改part3画布参数"></p><h1 id="对齐part2"><a href="#对齐part2" class="headerlink" title="对齐part2"></a>对齐part2</h1><p>使用 <code>Ctrl</code> <code>A</code> 全选画布 <code>Ctrl</code> <code>C</code> 复制画布 <code>Ctrl</code> <code>V</code> 粘贴画布<br>修改 <strong>图层 1</strong> 透明度为 <strong>60%</strong> 左右，按 <code>V</code> 使用 <strong>移动工具</strong> 移动并对齐图层，可以使用方向键进行微调<br><img src="https://z3.ax1x.com/2021/03/27/6zUq9P.gif" alt="[1-6]part2与part3对齐"><br>对齐完之后将透明度调回 <strong>100%</strong><br>按 <code>E</code> 使用橡皮擦工具，在工具栏修改橡皮擦参数；大小 <strong>100像素</strong> 硬度 <strong>0%</strong><br>擦除 <strong>图层 1</strong> 白条<br><img src="https://z3.ax1x.com/2021/03/27/6zYAwn.png" alt="[1-6]修改橡皮擦参数"><br><img src="https://z3.ax1x.com/2021/03/27/6zUHht.gif" alt="[1-6]擦除白条演示"></p><h1 id="对齐part1"><a href="#对齐part1" class="headerlink" title="对齐part1"></a>对齐part1</h1><p>使用 <code>Ctrl</code> <code>A</code> 全选画布 <code>Ctrl</code> <code>C</code> 复制画布 <code>Ctrl</code> <code>V</code> 粘贴画布<br>修改 <strong>图层 2</strong> 透明度为 <strong>60%</strong> 左右，使用 <code>Ctrl</code> <code>T</code> 自由变换移动并对齐图层，可以使用方向键进行微调<br><em>自由变换调整大小时按住 Shift 锁定比例</em><br><a href="https://z3.ax1x.com/2021/03/27/6zUXjS.gif" target="_blank" rel="noopener"><img src="https://z3.ax1x.com/2021/03/27/6zUOc8.gif" alt="1-6自由变换与对齐part1"></a><br>按 <code>E</code> 使用橡皮擦工具，在工具栏修改橡皮擦参数；大小 <strong>100像素</strong> 硬度 <strong>0%</strong><br>擦除 <strong>图层 2</strong> 重影<br><img src="https://z3.ax1x.com/2021/03/27/6zUL1f.gif" alt="[1-6]擦除重影"></p><h1 id="操作大纲"><a href="#操作大纲" class="headerlink" title="操作大纲"></a>操作大纲</h1><p><em>本部分为编写内容时的初始内容作为彩蛋保留</em><br><em>仅供参考，以正文为准</em><br>宽高600 350<br>复制图层 降低透明度，对齐图层 无重影<br>橡皮擦 像素100 硬度0<br>复制图层 降低透明度 自由变换 对齐图层 无重影 确认<br>橡皮擦 擦除部分<br>完成</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;文章介绍 &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+      <category term="Photoshop CS3 试题汇编" scheme="https://ps.otoo.top/categories/Photoshop-CS3-test-compilation/"/>
+    
+      <category term="第一单元 选区编辑" scheme="https://ps.otoo.top/categories/Photoshop-CS3-test-compilation/Unit-1/"/>
+    
+    
+      <category term="初来乍到" scheme="https://ps.otoo.top/tags/First-time-visitor/"/>
+    
+      <category term="平面设计" scheme="https://ps.otoo.top/tags/Graphic-Design/"/>
+    
+  </entry>
   
   <entry>
     <title>1-5 | 合成图像</title>
