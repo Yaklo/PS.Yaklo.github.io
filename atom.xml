@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://ps.otoo.top/"/>
-  <updated>2021-03-28T09:56:12.438Z</updated>
+  <updated>2021-03-28T10:36:15.120Z</updated>
   <id>https://ps.otoo.top/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>1-8制作画框效果</title>
-    <link href="https://ps.otoo.top/Blog/pscs3_2011_x1-8/"/>
-    <id>https://ps.otoo.top/Blog/pscs3_2011_x1-8/</id>
-    <published>2021-03-28T09:47:08.000Z</published>
-    <updated>2021-03-28T09:56:12.438Z</updated>
+    <title>1-9 | 制作倒影效果</title>
+    <link href="https://ps.otoo.top/Blog/pscs3_2011_x1-9/"/>
+    <id>https://ps.otoo.top/Blog/pscs3_2011_x1-9/</id>
+    <published>2021-03-28T10:02:52.000Z</published>
+    <updated>2021-03-28T10:36:15.120Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote class="blockquote-center"><p>第一单元 选区编辑 课本第7页 </p></blockquote><a id="more"></a><div class="admonition info"><p class="admonition-title">温馨提示</p><p>部分展示 <strong>完整</strong> Photoshop <strong>界面</strong> 的GIF动图可以 <strong>单击点开</strong> 查看 <strong>清晰大图</strong></p></div><div class="admonition warning"><p class="admonition-title">温馨提示</p><p>工具使用不要局限于此，有多种方法可以达成目的！博文内方法仅供参考，你可以使用对于你来说更为快速便捷的方法完成。</p></div><div class="admonition error"><p class="admonition-title">警告</p><p>全文覆盖GIF动图，如无图请刷新或等待加载推荐使用电脑浏览，</p></div><h1 id="素材下载"><a href="#素材下载" class="headerlink" title="素材下载"></a>素材下载</h1><div class="admonition note"><p class="admonition-title">x1-8 | 31.8KB</p><p><a href="/Download/x1-8.zip">PS.otoo.top</a></p></div><h1 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h1><p><img src="https://s4.ax1x.com/2021/03/19/6WoPJS.jpg" alt="制作水果拼盘效果图"></p><h1 id="操作大纲"><a href="#操作大纲" class="headerlink" title="操作大纲"></a>操作大纲</h1><p><em>本部分为编写内容时的初始内容作为彩蛋保留</em><br><em>仅供参考，以正文为准</em></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><blockquote class="blockquote-center"><p>文章介绍 </p></blockquote><a id="more"></a><div class="admonition info"><p class="admonition-title">温馨提示</p><p>部分展示 <strong>完整</strong> Photoshop <strong>界面</strong> 的GIF动图可以 <strong>单击点开</strong> 查看 <strong>清晰大图</strong></p></div><div class="admonition warning"><p class="admonition-title">温馨提示</p><p>工具使用不要局限于此，有多种方法可以达成目的！博文内方法仅供参考，你可以使用对于你来说更为快速便捷的方法完成。</p></div><div class="admonition error"><p class="admonition-title">警告</p><p>全文覆盖GIF动图，如无图请刷新或等待加载推荐使用电脑浏览，</p></div><h1 id="素材下载"><a href="#素材下载" class="headerlink" title="素材下载"></a>素材下载</h1><div class="admonition note"><p class="admonition-title">x1-9 | 12.3KB</p><p><a href="/Download/x1-9.zip">PS.otoo.top</a></p></div><h1 id="效果图"><a href="#效果图" class="headerlink" title="效果图"></a>效果图</h1><p><img src="https://z3.ax1x.com/2021/03/28/cprhxs.jpg" alt="1-9制作倒影效果图"></p><h1 id="实操步骤"><a href="#实操步骤" class="headerlink" title="实操步骤"></a>实操步骤</h1><p><code>Ctrl</code> <code>J</code> 拷贝当前图层<br><code>Ctrl</code> <code>Alt</code> <code>C</code> 高度修改为 <strong>458像素</strong> 定位 <strong>第一行第二列</strong><br><img src="https://z3.ax1x.com/2021/03/28/cprf2j.png" alt="1-9修改画布参数"><br><code>Ctrl</code> <code>T</code> 自由变换 <strong>图层 1</strong><br><code>鼠标右键</code> 选择 <strong>垂直翻转</strong><br>将图层拖至底部对齐<br><img src="https://z3.ax1x.com/2021/03/28/cpr5Mn.png" alt="1-9自由变换对比"></p><blockquote><p><strong>别漏了这一步</strong></p></blockquote><p>顶部菜单栏 <strong>滤镜-模糊-高斯模糊</strong> 半径 <strong>3像素</strong></p><h1 id="操作大纲"><a href="#操作大纲" class="headerlink" title="操作大纲"></a>操作大纲</h1><p><em>本部分为编写内容时的初始内容作为彩蛋保留</em><br><em>仅供参考，以正文为准</em><br>Cj复制图层 CAc 高458 定位1行2列<br>Ct自由变换 垂直翻转 对齐底线<br>滤镜-高斯模糊 3像素<br>完成</p>]]></content>
     
     <summary type="html">
     
-      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;第一单元 选区编辑 课本第7页 &lt;/p&gt;
+      &lt;blockquote class=&quot;blockquote-center&quot;&gt;&lt;p&gt;文章介绍 &lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
